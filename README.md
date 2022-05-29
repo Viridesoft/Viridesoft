@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adrian Pastoriza (@Viridesoft)
-- 👀 I’m interested in improve the eficieny of my code.
+- 👀 I’m interested in improve the eficiency of my code.
 - 🌱 I’m currently improving my php, html, css and Javascript skills. I'm learning React and Flutter.
 - 💞️ I’m looking to collaborate on Project Peter, a website for all the animal shelters in Spain.
 - 📫 How to reach me: viridesoft@gmail.com.
